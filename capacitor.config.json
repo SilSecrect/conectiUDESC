@@ -1,0 +1,9 @@
+{
+  "appId": "br.udesc.conectiudesc",
+  "appName": "ConectiUDESC",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
